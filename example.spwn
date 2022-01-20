@@ -1,0 +1,8 @@
+extract obj_props
+
+ip = import './src'
+
+"your IP address:".to_obj().with(X, 150).with(Y, 100).add()
+ip().to_obj().with(X, 150).with(Y, 70).add()
+
+// <add some meme video generated with ANMT here>
